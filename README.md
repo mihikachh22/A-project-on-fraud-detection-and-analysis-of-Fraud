@@ -6,4 +6,5 @@ The techniques used are as follows:
 3)Random forest classifier
 4)Bernouli
 5)KNN
+6)SVM Classifier
 etc. and compared the techniques on applying it.
